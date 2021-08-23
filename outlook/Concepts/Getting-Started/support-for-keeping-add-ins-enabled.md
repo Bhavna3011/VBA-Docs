@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Support for keeping add-ins enabled
 
-Programs in Office 2013 and later versions provide add-in resiliency, meaning that apps will disable an add-in if it performs slowly. However, you can re-enable add-ins and prevent add-ins from being auto-disabled by other Office programs. 
+Programs in Outlook 2013 and later versions provide add-in resiliency, meaning that apps will disable an add-in if it performs slowly. However, you can re-enable add-ins and prevent add-ins from being auto-disabled by other Outlook programs. 
 
 ## Preventing add-ins from being disabled
 
@@ -32,7 +32,7 @@ Following are some suggestions for improving add-in performance:
 
 ## System administrator control over add-ins
 
-The user has control over which add-ins run on their computer. Beginning with Office 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy **List of Managed Add-ins**.
+The user has control over which add-ins run on their computer. Beginning with Outlook 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy **List of Managed Add-ins**.
 
 For Outlook, the registry keys and settings are described in the following tables.
 
